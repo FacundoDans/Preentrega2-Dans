@@ -1,0 +1,111 @@
+/*General*/
+
+a{
+    color: dark;
+    font-weight: bolder;
+}
+/*NavBar*/
+
+
+
+
+
+
+
+
+/* Carrusel*/
+
+.carousel-caption{
+background-color: #1A1817 ;
+opacity: 0.6;
+height: 100%;
+left: 0px;
+top: 0px;
+padding: 30px 45px 20px 10px;
+text-align: justify;
+width: 340px;
+}
+
+.carousel-caption p{
+    font-size: 14px;
+    font-weight: 4px;
+}
+
+.carousel-caption h2{
+    font-size: 30px;
+    margin-top: 10px;
+    margin-bottom: 30px;
+}
+
+.carousel-inner{
+    margin: 50px;
+    max-height: 500px;
+    max-width: 2250px;
+
+}
+
+.carousel-inner img {
+    width: 100%;
+    max-height: 460px;
+}
+
+/*MAIN CONTENIDO*/
+
+h3{
+font-size: 35px;
+border-bottom: 1px solid #23b4ce;
+padding-bottom: 10px;
+margin-bottom: 15px;
+}
+
+h3 i{
+    color: cyan;
+}
+
+p{
+    font-size: 22px;
+}
+
+/*sidebar footer*/
+
+.sidebar-zone{
+    background-color: lightseagreen;
+    padding-top: 25px;
+}
+
+.sidebar-zone h4{
+font-size: 20px;
+border-bottom: 1px solid #030303;
+padding-bottom: 10px;
+margin-bottom: 15px;
+}
+
+.sidebar-zone a{
+    margin-bottom: 15px;
+}
+
+.sidebar-zone a:hover{
+    color: dark;
+}
+
+.col-redes a{
+    display: block;
+}
+
+/*Footer*/
+
+footer{
+    background-color: black;
+    color: white;
+    font-size: 12px;
+    padding: 10px 0px;
+}
+
+footer ul{
+    margin-bottom: 0px;
+}
+
+footer a:hover{
+    color: white;
+    text-decoration: none;
+}
